@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dnss/QfNSw8=",
+  "success": true,
+  "projectFilePath": "D:\\DevelopmentProjects\\SBC\\NewGitProject\\NewGitProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashaa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\ashaa\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
